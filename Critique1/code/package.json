@@ -1,0 +1,15 @@
+{
+  "name": "cryptography-engineering-critique01",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node --project tsconfig.json src/nycuPortalPrintCreds.ts"
+  },
+  "dependencies": {
+    "puppeteer": "^24.6.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^7.0.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
